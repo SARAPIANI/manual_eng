@@ -1,67 +1,67 @@
 # Table of contents
 
-* [👋 MANUALE SAFERPLACES PLATFORM](README.md)
-* [🌏 Accesso Piattaforma SaferPlaces](accesso-piattaforma-saferplaces.md)
+* [👋 MANUAL SAFERPLACES PLATFORM](README.md)
+* [🌏 SaferPlaces Platform Access](saferplaces-platform-access.md)
 
-## ⚙️ Creazione utente e login
+## ⚙️ User Creation and login
 
-* [💡 Registrazione e Attivazione Utente](creazione-utente-e-login/registrazione-e-attivazione-utente.md)
-* [💡 SaferPlaces Login](creazione-utente-e-login/saferplaces-login.md)
+* [💡 User Registration and Activation](user-creation-and-login/user-registration-and-activation.md)
+* [💡 SaferPlaces Login](user-creation-and-login/saferplaces-login.md)
 
 ***
 
-* [🚀 Pagina My Projects](pagina-my-projects.md)
+* [🚀 My Projects](my-projects.md)
 
-## ⛰️ Gemello digitale e Attivazione nuovo servizio
+## ⛰️ Digital Twin and Activation New Project
 
-* [📔 Gemello Digitale - Digital Twin](gemello-digitale-e-attivazione-nuovo-servizio/gemello-digitale-digital-twin.md)
-* [💻 Creazione Digital Twin e attivazione del servizio nell'area di interesse](gemello-digitale-e-attivazione-nuovo-servizio/creazione-digital-twin-e-attivazione-del-servizio-nellarea-di-interesse/README.md)
-  * [STEP 1  DTM - Raster GeoTiff](gemello-digitale-e-attivazione-nuovo-servizio/creazione-digital-twin-e-attivazione-del-servizio-nellarea-di-interesse/step-1-dtm-raster-geotiff.md)
-  * [STEP 2 Edifici - Vettoriale ShapeFile](gemello-digitale-e-attivazione-nuovo-servizio/creazione-digital-twin-e-attivazione-del-servizio-nellarea-di-interesse/step-2-edifici-vettoriale-shapefile.md)
-  * [STEP 3 Tasso di infiltrazione - Raster GeoTiff](gemello-digitale-e-attivazione-nuovo-servizio/creazione-digital-twin-e-attivazione-del-servizio-nellarea-di-interesse/step-3-tasso-di-infiltrazione-raster-geotiff.md)
-  * [STEP 4 Litologia - Raster GeoTiff](gemello-digitale-e-attivazione-nuovo-servizio/creazione-digital-twin-e-attivazione-del-servizio-nellarea-di-interesse/step-4-litologia-raster-geotiff.md)
-  * [STEP 5 Layer Geospaziali aggiuntivi - raster e vettoriali](gemello-digitale-e-attivazione-nuovo-servizio/creazione-digital-twin-e-attivazione-del-servizio-nellarea-di-interesse/step-5-layer-geospaziali-aggiuntivi-raster-e-vettoriali.md)
-  * [STEP 6 Crea e Finalizza il Progetto](gemello-digitale-e-attivazione-nuovo-servizio/creazione-digital-twin-e-attivazione-del-servizio-nellarea-di-interesse/step-6-crea-e-finalizza-il-progetto.md)
-* [💻 Creazione Digital Twin e attivazione del servizio nell'area di interesse - SOLO UTENTI REGIONE ER](gemello-digitale-e-attivazione-nuovo-servizio/creazione-digital-twin-e-attivazione-del-servizio-nellarea-di-interesse-solo-utenti-regione-er/README.md)
-  * [STEP 1  DTM RER - Raster GeoTiff](gemello-digitale-e-attivazione-nuovo-servizio/creazione-digital-twin-e-attivazione-del-servizio-nellarea-di-interesse-solo-utenti-regione-er/step-1-dtm-rer-raster-geotiff.md)
-  * [STEP 2 Edifici RER - Vettoriale ShapeFile](gemello-digitale-e-attivazione-nuovo-servizio/creazione-digital-twin-e-attivazione-del-servizio-nellarea-di-interesse-solo-utenti-regione-er/step-2-edifici-rer-vettoriale-shapefile.md)
-  * [STEP 3 Tasso di infiltrazione RER - Raster GeoTiff](gemello-digitale-e-attivazione-nuovo-servizio/creazione-digital-twin-e-attivazione-del-servizio-nellarea-di-interesse-solo-utenti-regione-er/step-3-tasso-di-infiltrazione-rer-raster-geotiff.md)
-  * [STEP 4 Litologia RER - Raster GeoTiff](gemello-digitale-e-attivazione-nuovo-servizio/creazione-digital-twin-e-attivazione-del-servizio-nellarea-di-interesse-solo-utenti-regione-er/step-4-litologia-rer-raster-geotiff.md)
-  * [STEP 5 Layer Geospaziali aggiuntivi - raster e vettoriali - REST Service](gemello-digitale-e-attivazione-nuovo-servizio/creazione-digital-twin-e-attivazione-del-servizio-nellarea-di-interesse-solo-utenti-regione-er/step-5-layer-geospaziali-aggiuntivi-raster-e-vettoriali-rest-service.md)
-  * [STEP 6 Crea e Finalizza il Progetto RER](gemello-digitale-e-attivazione-nuovo-servizio/creazione-digital-twin-e-attivazione-del-servizio-nellarea-di-interesse-solo-utenti-regione-er/step-6-crea-e-finalizza-il-progetto-rer.md)
+* [📔 Digital Twin](digital-twin-and-activation-new-project/digital-twin.md)
+* [💻 Creation of Digital Twin and activation of the service in the area of interest](digital-twin-and-activation-new-project/creation-of-digital-twin-and-activation-of-the-service-in-the-area-of-interest/README.md)
+  * [STEP 1  DTM - Raster GeoTiff](digital-twin-and-activation-new-project/creation-of-digital-twin-and-activation-of-the-service-in-the-area-of-interest/step-1-dtm-raster-geotiff.md)
+  * [STEP 2 Buildings - Vector ShapeFile](digital-twin-and-activation-new-project/creation-of-digital-twin-and-activation-of-the-service-in-the-area-of-interest/step-2-buildings-vector-shapefile.md)
+  * [STEP 3 Infiltration Rate - Raster GeoTiff](digital-twin-and-activation-new-project/creation-of-digital-twin-and-activation-of-the-service-in-the-area-of-interest/step-3-infiltration-rate-raster-geotiff.md)
+  * [STEP 4 Lithology - Raster GeoTiff](digital-twin-and-activation-new-project/creation-of-digital-twin-and-activation-of-the-service-in-the-area-of-interest/step-4-lithology-raster-geotiff.md)
+  * [STEP 5 Add Geospatial Layers - raster and vector](digital-twin-and-activation-new-project/creation-of-digital-twin-and-activation-of-the-service-in-the-area-of-interest/step-5-add-geospatial-layers-raster-and-vector.md)
+  * [STEP 6 Create Project](digital-twin-and-activation-new-project/creation-of-digital-twin-and-activation-of-the-service-in-the-area-of-interest/step-6-create-project.md)
+* [💻 Creazione Digital Twin e attivazione del servizio nell'area di interesse - SOLO UTENTI REGIONE ER](digital-twin-and-activation-new-project/creazione-digital-twin-e-attivazione-del-servizio-nellarea-di-interesse-solo-utenti-regione-er/README.md)
+  * [STEP 1  DTM RER - Raster GeoTiff](digital-twin-and-activation-new-project/creazione-digital-twin-e-attivazione-del-servizio-nellarea-di-interesse-solo-utenti-regione-er/step-1-dtm-rer-raster-geotiff.md)
+  * [STEP 2 Edifici RER - Vettoriale ShapeFile](digital-twin-and-activation-new-project/creazione-digital-twin-e-attivazione-del-servizio-nellarea-di-interesse-solo-utenti-regione-er/step-2-edifici-rer-vettoriale-shapefile.md)
+  * [STEP 3 Tasso di infiltrazione RER - Raster GeoTiff](digital-twin-and-activation-new-project/creazione-digital-twin-e-attivazione-del-servizio-nellarea-di-interesse-solo-utenti-regione-er/step-3-tasso-di-infiltrazione-rer-raster-geotiff.md)
+  * [STEP 4 Litologia RER - Raster GeoTiff](digital-twin-and-activation-new-project/creazione-digital-twin-e-attivazione-del-servizio-nellarea-di-interesse-solo-utenti-regione-er/step-4-litologia-rer-raster-geotiff.md)
+  * [STEP 5 Layer Geospaziali aggiuntivi - raster e vettoriali - REST Service](digital-twin-and-activation-new-project/creazione-digital-twin-e-attivazione-del-servizio-nellarea-di-interesse-solo-utenti-regione-er/step-5-layer-geospaziali-aggiuntivi-raster-e-vettoriali-rest-service.md)
+  * [STEP 6 Crea e Finalizza il Progetto RER](digital-twin-and-activation-new-project/creazione-digital-twin-e-attivazione-del-servizio-nellarea-di-interesse-solo-utenti-regione-er/step-6-crea-e-finalizza-il-progetto-rer.md)
 
-## 📐 Saferplaces - Interfaccia GUI Web
+## 📐 Saferplaces - GUI Web
 
-* [💻 Pagina di Progetto/Servizio](saferplaces-interfaccia-gui-web/pagina-di-progetto-servizio.md)
-* [Barra Laterale destra](saferplaces-interfaccia-gui-web/barra-laterale-destra.md)
-* [Barra superiore](saferplaces-interfaccia-gui-web/barra-superiore.md)
-* [Barra Laterale sinistra](saferplaces-interfaccia-gui-web/barra-laterale-sinistra.md)
+* [💻 Project/Service Page](saferplaces-gui-web/project-service-page.md)
+* [Right sidebar](saferplaces-gui-web/right-sidebar.md)
+* [Top bar](saferplaces-gui-web/top-bar.md)
+* [Left Sidebar](saferplaces-gui-web/left-sidebar.md)
 
-## 🌊 Simulazioni Allagamento - Pericolo e Danno
+## 🌊 Flood and Damage - Simulation
 
-* [🛠️ Definizione Scenario - Source Scenarios](simulazioni-allagamento-pericolo-e-danno/definizione-scenario-source-scenarios/README.md)
-  * [🌧️ Simulazione Allagamento Pluviale](simulazioni-allagamento-pericolo-e-danno/definizione-scenario-source-scenarios/simulazione-allagamento-pluviale.md)
-  * [💦 Simulazione Allagamento Fluviale](simulazioni-allagamento-pericolo-e-danno/definizione-scenario-source-scenarios/simulazione-allagamento-fluviale.md)
-  * [🏖️ Simulazione Allagamento Costiero](simulazioni-allagamento-pericolo-e-danno/definizione-scenario-source-scenarios/simulazione-allagamento-costiero.md)
-* [📓 Modelli di Allagamento (Hazard) - Saferplaces](simulazioni-allagamento-pericolo-e-danno/modelli-di-allagamento-hazard-saferplaces/README.md)
-  * [🌧️ Safer\_RAIN](simulazioni-allagamento-pericolo-e-danno/modelli-di-allagamento-hazard-saferplaces/safer_rain.md)
-  * [💧 UNTRIM](simulazioni-allagamento-pericolo-e-danno/modelli-di-allagamento-hazard-saferplaces/untrim.md)
-  * [💦 Safer\_RIVER](simulazioni-allagamento-pericolo-e-danno/modelli-di-allagamento-hazard-saferplaces/safer_river.md)
-  * [🏖️ Safer\_COAST](simulazioni-allagamento-pericolo-e-danno/modelli-di-allagamento-hazard-saferplaces/safer_coast.md)
-* [🏚️ Modello di Danno Economico - Safer\_DAMAGE](simulazioni-allagamento-pericolo-e-danno/modello-di-danno-economico-safer_damage.md)
+* [🛠️ Source Scenarios](flood-and-damage-simulation/source-scenarios/README.md)
+  * [🌧️ Pluvial Flood Simulation](flood-and-damage-simulation/source-scenarios/pluvial-flood-simulation.md)
+  * [💦 Fluvial Flood Simulation](flood-and-damage-simulation/source-scenarios/fluvial-flood-simulation.md)
+  * [🏖️ Coastal Flood Simulation](flood-and-damage-simulation/source-scenarios/coastal-flood-simulation.md)
+* [📓 Flood Hazard Models - Saferplaces](flood-and-damage-simulation/flood-hazard-models-saferplaces/README.md)
+  * [🌧️ Safer\_RAIN](flood-and-damage-simulation/flood-hazard-models-saferplaces/safer_rain.md)
+  * [💧 UNTRIM](flood-and-damage-simulation/flood-hazard-models-saferplaces/untrim.md)
+  * [💦 Safer\_RIVER](flood-and-damage-simulation/flood-hazard-models-saferplaces/safer_river.md)
+  * [🏖️ Safer\_COAST](flood-and-damage-simulation/flood-hazard-models-saferplaces/safer_coast.md)
+* [🏚️ Damage Assessment Model - Safer\_DAMAGE](flood-and-damage-simulation/damage-assessment-model-safer_damage.md)
 
-## 📊 RISULTATI
+## 📊 OUTPUT
 
-* [🛠️ Visualizzazione dei risultati](risultati/visualizzazione-dei-risultati.md)
+* [🛠️ Viewing results](output/viewing-results.md)
 
-## ⛰️ Misure di mitigazione
+## ⛰️ Mitigation Measures
 
-* [📔 Misure di mitigazione del rischio di alluvione](misure-di-mitigazione/misure-di-mitigazione-del-rischio-di-alluvione.md)
-* [💰 Misure di mitigazione Edifici del danno](misure-di-mitigazione/misure-di-mitigazione-edifici-del-danno.md)
+* [📔 Flood risk mitigation measures](mitigation-measures/flood-risk-mitigation-measures.md)
+* [💰 Misure di mitigazione Edifici del danno](mitigation-measures/misure-di-mitigazione-edifici-del-danno.md)
 
-## 📡 Analisi satellitari
+## 📡 Satellite Processing
 
-* [📘 Descrizione delle funzioni satellitari](analisi-satellitari/descrizione-delle-funzioni-satellitari.md)
-* [🛠️ Safer001](analisi-satellitari/safer001.md)
-* [🛠️ Safer002](analisi-satellitari/safer002.md)
-* [🛠️ Safer003](analisi-satellitari/safer003.md)
+* [📘 Satellite Functionalities](satellite-processing/satellite-functionalities.md)
+* [🛠️ Safer001](satellite-processing/safer001.md)
+* [🛠️ Safer002](satellite-processing/safer002.md)
+* [🛠️ Safer003](satellite-processing/safer003.md)

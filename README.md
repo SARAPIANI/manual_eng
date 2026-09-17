@@ -1,5 +1,5 @@
 ---
-description: Versione  v0.2.160 del 03/01/2025
+description: Version  v0.2.160 del 03/01/2025
 cover: .gitbook/assets/Asset 10.jpg
 coverY: 0
 layout:
@@ -28,38 +28,30 @@ layout:
     visible: true
 ---
 
-# 👋 MANUALE SAFERPLACES PLATFORM
+# 👋 MANUAL SAFERPLACES PLATFORM
 
-## Introduzione
+## Introduction
 
-[SaferPlaces](https://www.saferplaeces.co) è una piattaforma cloud di nuova generazione che si distingue nel panorama delle soluzioni tecnologiche per la gestione del rischio alluvionale.&#x20;
+[SaferPlaces](https://www.saferplaeces.co) is a cutting-edge platform that leverages real-time meteorological data, sophisticated algorithms, and predictive models to analyze potential flood scenarios in detail. Users can access a user-friendly graphical interface that allows them to simulate and visualize possible flood risks and associated damages, promoting a better understanding of risks and a more effective response. This platform is designed to support a wide range of users, from urban planners and policymakers to civil protection organizations and insurance companies.
 
-Combinando avanzate tecnologie digitali con approfondite analisi idrologiche, SaferPlaces mira a fornire una "Flood Risk Intelligence" altamente accurata e personalizzabile, indispensabile per la prevenzione e la gestione dei disastri naturali legati all'acqua.
-
-Questa piattaforma all'avanguardia utilizza dati meteorologici in tempo reale, algoritmi sofisticati e modelli predittivi per analizzare dettagliatamente i potenziali scenari di alluvione. Gli utenti hanno a disposizione un'interfaccia grafica user-friendly che consente loro di simulare e visualizzare possibili situazioni di rischio alluvionale e danni associati, promuovendo una migliore comprensione dei rischi e una risposta più efficace.
-
-SaferPlaces è concepita per supportare una vasta gamma di utenti, dai pianificatori urbani e i decisori politici, alle organizzazioni di protezione civile e alle compagnie assicurative. Essa offre strumenti cruciali per l'implementazione di strategie di mitigazione e adattamento ai cambiamenti climatici, grazie alla sua capacità di integrare dati locali e specifici per area, permettendo una personalizzazione ottimale delle soluzioni.
-
-In un'epoca di frequenti eventi estremi dovuti ai cambiamenti climatici, SaferPlaces rappresenta una risorsa essenziale per proteggere le comunità e ridurre i rischi associati agli eventi alluvionali. La piattaforma non solo facilita l'analisi e la comunicazione del rischio, ma consente anche di rafforzare la resilienza delle infrastrutture e delle popolazioni esposte, grazie alla sua capacità di adattarsi e rispondere alle esigenze specifiche dei clienti attraverso funzioni personalizzate.
+SaferPlaces provides critical tools for implementing mitigation and adaptation strategies to climate change, thanks to its ability to integrate local and area-specific data, allowing for optimal customization of solutions. In an era of frequent extreme events due to climate change, SaferPlaces is an essential resource for protecting communities and reducing the risks associated with flood events. The platform not only facilitates risk analysis and communication but also strengthens the resilience of exposed infrastructures and populations, thanks to its ability to adapt and respond to clients' specific needs through customized features.
 
 <figure><img src=".gitbook/assets/SaaSvsAPI_aperto.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
-La piattaforma cloud SaferPlaces è un servizio SaaS (Software as a Service) progettato per fornire "Flood Risk Intelligence" ad alta risoluzione e con elevata granularità, in tempo reale, per vari scenari di inondazione.
+The SaferPlaces cloud platform is a SaaS (Software as a Service) designed to provide high-resolution, highly granular "Flood Risk Intelligence" in real time for various flood scenarios.
 
-Dispone di un'interfaccia grafica utente (GUI - Graphic User Interface) dedicata, che permette di generare, eseguire e visualizzare scenari di rischio e danno da alluvione per aree specifiche di interesse.
+It features a dedicated Graphic User Interface (GUI) that allows users to generate, execute, and visualize flood risk and damage scenarios for specific areas of interest.
 {% endhint %}
 
 
 
 {% hint style="info" %}
-Questo Manuale d'uso illustra le caratteristiche principali della piattaforma, evidenziando la semplicità con cui gli utenti possono effettuare simulazioni per valutare la pericolosità e i danni causati da alluvioni.
+This User Manual highlights the main features of the platform, emphasizing the ease with which users can run simulations to assess the hazards and damages caused by floods.
 
-Di seguito, troverai informazioni dettagliate su tutte le funzioni e strumenti disponibili.
+Below, you will find detailed information on all the available functions and tools.
 
-Inoltre, il servizio è estremamente flessibile e può essere esteso con funzioni personalizzate su richiesta dei clienti.
-
-
+Additionally, the service is highly flexible and can be extended with customized features upon client request.
 {% endhint %}
 
 
@@ -72,12 +64,16 @@ SAFERPLACES VIDEO TEASER&#x20;
 
 {% embed url="https://youtu.be/JJK11Pap200" %}
 
+
+
 {% hint style="warning" %}
-Una volta registrato e ricevuto le credenziali per accedere a SaferPlaces, l'utente dovrebbe attivare il gemello digitale della città o area d'interesse, a meno che non sia già stato fatto dal team di SaferPlaces. In questo modo, sarà possibile eseguire gli scenari di simulazione di alluvioni desiderati.
+Once registered and received credentials to access SaferPlaces, the user should activate the digital twin of the city or area of interest, unless it has already been done by the SaferPlaces team. This will allow executing the desired flood simulation scenarios.
 {% endhint %}
 
+To access and utilize SaferPlaces effectively, ensure you have registered and received your credentials. If you haven't yet activated the digital twin for your specific city or area of interest, do so unless the SaferPlaces team has already completed this step. Activating the digital twin is essential for running flood simulation scenarios accurately.
 
 
-{% content-ref url="creazione-utente-e-login/registrazione-e-attivazione-utente.md" %}
-[registrazione-e-attivazione-utente.md](creazione-utente-e-login/registrazione-e-attivazione-utente.md)
+
+{% content-ref url="user-creation-and-login/user-registration-and-activation.md" %}
+[user-registration-and-activation.md](user-creation-and-login/user-registration-and-activation.md)
 {% endcontent-ref %}
